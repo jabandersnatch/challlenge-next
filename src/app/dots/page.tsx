@@ -69,12 +69,12 @@ const DotsPage = () => {
     >
       {user ? (
         <>
-          <div className='flex flex-row items-center justify-center gap-4'>
+          <div className='flex flex-row items-center gap-4 h-1/6'>
             <Button onClick={handleUndo} color='error'>Undo</Button>
             <Button onClick={handleRedo} bordered>Redo</Button>
             <Button onClick={SaveDots}>Save</Button>
           </div>
-          <div className='w-screen h-screen'>
+          <div className='w-screen h-5/6'>
             {dots.map((dot) => (
               <div
                 key={`${dot.x}-${dot.y}`}

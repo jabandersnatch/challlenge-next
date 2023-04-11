@@ -59,3 +59,10 @@ Analysis of requirements and results.
 - [x] The web app has the ability to load the data from the database.
 - [x] The web app uses TailwindCSS for styling, NextUI for components, and Firebase for authentication and data persistence.
 - [x] The web app is deployed on Vercel.
+
+
+# Full video of the project
+
+You can check the full video of the project of me coding it (here)[https://drive.google.com/file/d/14qpbG0I8lDPhK9A59GdaHOrvXf0uwroC/view?usp=share_link].
+
+> The video is in Spanish, also I't was recorded accross the day because I had some errands to do, so the video is a bit long, but I hope you enjoy it.
