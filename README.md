@@ -31,4 +31,31 @@ Authentication, Server-side Rendering (SSR), and Client-side Rendering (CSR) are
 In order to test the authentication features, you need to register and login using the navbar at the top of the app. Once you register, you are automatically logged in.
 
 # Deployment
-The app is deployed on Vercel, and you can check it out here.
+The app is deployed on Vercel, and you can check it out (here)[https://challlenge-next.vercel.app/].
+
+# Functional Requirements met:
+Analysis of requirements and results.
+## route /Puntos
+- [x] The user can place colorfull points on all the screen.
+- [x] The user can undo all the points that he/she has placed.
+- [x] The user can redo all the points that he/she has placed.
+- [x] The points are saved in the database.
+- [x] The points are loaded from the database.
+
+## route /Palindromo
+- [x] The user can enter a word and check if it is a palindrome.
+- [x] The user can see the history of the words that he/she has entered.
+- [x] The words are saved in the database.
+- [x] The words are loaded from the database.
+- [x] The can clean the word that is in the input.
+- [x] The web app alerts the user if the is or is not a palindrome.
+
+## Lint and Prettier use
+- [x] The project uses Lint and Prettier that were provided by the Instructor, there isn't a single error or warning in the console.
+
+## Extras
+- [x] The web app has the ability to login and logout.
+- [x] The web app has the ability to persist the data in the database.
+- [x] The web app has the ability to load the data from the database.
+- [x] The web app uses TailwindCSS for styling, NextUI for components, and Firebase for authentication and data persistence.
+- [x] The web app is deployed on Vercel.

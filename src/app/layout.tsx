@@ -23,7 +23,7 @@ const RootLayout = ({
         <meta name='theme-color' content='#000000' />
         <link rel='manifest' href='/manifest.json' />
         <link rel='shortcut icon' href='/favicon.ico' />
-        <title>metadata.title</title>
+        <title>{metadata.title}</title>
       </head>
       <body>
         <HeaderNav />
